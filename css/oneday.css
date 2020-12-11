@@ -1,0 +1,52 @@
+@charset "utf-8";
+#oneday #wrap #contents #main .up {
+	background-image: url(../images/g_box_up_s1.gif);
+	height: 15px;
+	width: 530px;
+}
+#oneday #wrap #contents #main .middle .section {
+	margin-left: 0px;
+	width: 500px;
+}
+
+#oneday #wrap #contents #main .middle {
+	background-image: url(../images/g_box_middle_s1.gif);
+	background-repeat: repeat-y;
+	background-position: 0px 0px;
+	width: 510px;
+	margin: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+#oneday #wrap #contents #main .middle p {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 25px;
+}
+#oneday #wrap #contents #main .middle ul li {
+	padding-bottom: 5px;
+	padding-left: 25px;
+}
+
+#oneday #wrap #contents #main .down {
+	background-image: url(../images/g_box_down_s1.gif);
+	background-position: 0px 0px;
+	height: 15px;
+	width: 530px;
+	margin-bottom: 20px;
+}
+#oneday #wrap #contents #main .middle p {
+	padding-bottom: 10px;
+}

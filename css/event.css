@@ -1,0 +1,78 @@
+@charset "utf-8";
+#body #wrap #contents #main {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	clear: both;
+	float: none;
+	width: 800px;
+}
+#body #wrap #contents #main p {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin: 0px;
+	padding: 0px;
+	color: #090;
+	text-align: right;
+	width: 700px;
+}
+
+h2 {
+	color: #CC6633;
+	font-size: 153.9%;
+	background: url(../images/h3back.gif) no-repeat;
+	height: 35px;
+	width: 300px;
+	text-align: center;
+	line-height: 30px;
+	padding: 0px;
+	margin: 0px auto 10px;
+}
+#body #wrap #contents #main table {
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+}
+#body #wrap #contents #main table tr th {
+	height: 30px;
+	background-color: #f90;
+	vertical-align: middle;
+	color: #FFF;
+	font-size: 120%;
+	border: 2px solid #FC3;
+	padding: 0px;
+}
+#body #wrap #contents #main table tr .month {
+	text-align: center;
+	padding: 0px;
+	border: 2px solid #FC3;
+	vertical-align: middle;
+}
+#body #wrap #contents #main table tr td {
+	line-height: 1.8em;
+	border: 2px solid #FC3;
+	padding-top: 5px;
+	padding-left: 20px;
+}
+#body #wrap #contents #main ul {
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	border: 2px solid #F96;
+	margin-right: auto;
+	margin-left: auto;
+	width: 580px;
+}
+#body #wrap #contents #main ul li {
+	display: block;
+	background-image: url(../images/garasu.gif);
+	background-repeat: no-repeat;
+	line-height: 22px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 25px;
+}

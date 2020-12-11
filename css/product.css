@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+#product #wrap #contents #main {
+	width: 760px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+#product #wrap #contents #main p {
+	padding: 0px 30px 15px;
+	width: 645px;
+	font-size: 116%;
+	line-height: 2em;
+	border: 2px solid #FCC;
+	height: 300px;
+	margin: 0px auto 30px;
+}
+
+#product #wrap #contents #main .recommend {
+	background: url(../product_images/jisyu-syoukai-back.gif) no-repeat center center;
+	height: 155px;
+	width: 430px;
+	line-height: 1.2em;
+	padding: 30px 250px 30px 30px;
+	border-style: none;
+}
+#product #wrap #contents #main p img {
+	clear: none;
+	float: left;
+	margin: 25px 30px 30px 0px;
+}
+#product #wrap #contents #main p .section {
+	margin: 50px 0px 0px 365px;
+	padding: 0px;
+	text-indent: 0;
+}
+h2 {
+	color: #CC6633;
+	font-size: 153.9%;
+	background: url(../images/h3back.gif) no-repeat;
+	height: 35px;
+	width: 300px;
+	text-align: center;
+	line-height: 30px;
+	padding: 0px;
+	margin: 0px auto 10px;
+}

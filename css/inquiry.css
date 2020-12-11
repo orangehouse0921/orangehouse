@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+#inquiry #wrap #contents #main {
+	width: 696px;
+	margin-right: 60px;
+	margin-left: 60px;
+}
+#inquiry #wrap #contents #main dl {
+	width: 600px;
+	border-top: 6px double #F93;
+	border-right: 6px double #C63;
+	border-bottom: 6px double #C63;
+	border-left: 6px double #F93;
+	font-size: 123.1%;
+	margin-top: 25px;
+	margin-right: 0px;
+	margin-bottom: 60px;
+	margin-left: 20px;
+	padding-top: 0px;
+	padding-right: 18px;
+	padding-bottom: 18px;
+	padding-left: 50px;
+}
+#inquiry #wrap #contents #main dl dt {
+	display: block;
+	line-height: 2.5em;
+	background: url(../images/garasu.gif) no-repeat left center;
+	text-align: left;
+	padding-left: 30px;
+	width: 5em;
+}
+#inquiry #wrap #contents #main dl dd {
+	padding-left: 8em;
+	margin-top: -53px;
+}
+
+
+#inquiry #wrap #contents #main p {
+	padding: 18px;
+	width: 656px;
+	border-style: none;
+}
+#inquiry #wrap #contents #main p img {
+	margin: 0px;
+	padding: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+h2 {
+	color: #CC6633;
+	font-size: 153.9%;
+	background: url(../images/h3back.gif) no-repeat;
+	height: 35px;
+	width: 300px;
+	text-align: center;
+	line-height: 30px;
+	padding: 0px;
+	margin: 0px auto 10px;
+}

@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+#work #wrap #contents #main p {
+	width: 475px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	border: 1px solid #F63;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+}
+#work #wrap #contents #main .middle .img {
+	margin: 0px;
+	padding: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+#work #wrap #contents #main .up {
+	background-image: url(../images/g_box_up_s1.gif);
+	height: 15px;
+	width: 530px;
+}
+
+#work #wrap #contents #main .middle {
+	border: 2px none #FF6633;
+	line-height: 1.5em;
+	background-image: url(../images/g_box_middle_s1.gif);
+	background-repeat: repeat-y;
+	background-position: 0px 0px;
+	width: 510px;
+	padding-top: 25px;
+	padding-right: 0px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+#work #wrap #contents #main .section  {
+	margin-left: 0px;
+}
+#work #wrap #contents #main .item img {
+	margin-left: -20px;
+}
+#work #wrap #contents #main .down {
+	background-image: url(../images/g_box_down_s1.gif);
+	background-position: 0px 0px;
+	width: 530px;
+	margin-bottom: 30px;
+	height: 15px;
+}

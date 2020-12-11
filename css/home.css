@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+#home {
+	background: url(../images/bodyback1.jpg) repeat-x;
+}
+#home #wrap #header h1 {
+	height: 300px;
+	width: 820px;
+	margin-top: 3px;
+}
+
+#home #wrap {
+	background: url(../images/top-back.jpg) no-repeat 0px 354px;
+}
+#home #wrap #contents {
+	width: 820px;
+}
+#home #wrap #contents #left {
+	float: left;
+	width: 420px;
+	margin-left: 20px;
+}
+#home #wrap #contents #left dl {
+	padding: 15px 10px;
+	width: 396px;
+	border: 2px solid #F96;
+	line-height: 30px;
+}
+#home #wrap #contents #left dl dt {
+	display: block;
+	background: url(../images/garasu.gif) no-repeat left center;
+	padding-left: 25px;
+	font-weight: normal;
+	color: #F36;
+	font-size: 1.2em;
+}
+#home #wrap #contents #left div dl dt .small {
+	font-size: 0.8em;
+}
+
+#home #wrap #contents #left dl dd {
+	width: 365px;
+	padding-left: 30px;
+}
+#home #wrap #contents #left p {
+	width: 396px;
+	border: 2px solid #f96;
+	padding: 15px 10px;
+}
+
+
+
+#home #wrap #contents #right {
+	float: right;
+	width: 340px;
+	margin-right: 20px;
+}
+h2 {
+	color: #CC6633;
+	font-size: 153.9%;
+	background: url(../images/h3back.gif) no-repeat;
+	height: 35px;
+	width: 300px;
+	text-align: center;
+	line-height: 30px;
+	padding: 0px;
+	margin: 40px 0px 10px;
+}
+#home #wrap #contents #right p {
+	width: 316px;
+	padding: 15px 10px;
+	border: 2px solid #F96;
+	margin: 0px;
+}

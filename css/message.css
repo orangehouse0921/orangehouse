@@ -1,0 +1,29 @@
+@charset "utf-8";
+#message #wrap #main .up {
+	background-image: url(../images/g_box_up_s1.gif);
+	height: 15px;
+	width: 530px;
+}
+#message #wrap #main .middle p {
+	width: 425px;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+#message #wrap #main .middle .section {
+	margin-left: 20px;
+	width: 510px;
+	margin-bottom: 20px;
+}
+#message #wrap #main .middle {
+	background-image: url(../images/g_box_middle_s1.gif);
+	background-repeat: repeat-y;
+	background-position: 0px 0px;
+	padding-bottom: 20px;
+	width: 530px;
+}
+#message #wrap #main .down {
+	height: 15px;
+	width: 530px;
+	margin-bottom: 50px;
+	background-image: url(../images/g_box_down_s1.gif);
+}
